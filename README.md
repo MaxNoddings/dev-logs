@@ -15,3 +15,10 @@ Today I...
 * Thought about roadmap ahead and what projects to focus on next
 * Thought about best entry points into the space industry
 * Networked on LinkedIn
+
+### 02/11/2024
+
+Today I...
+* Thought about some new changes to make for my personal portfolio website
+* Applied for several junior software engineering / web development positions
+* Prepared for coding challege interview coming up
