@@ -22,3 +22,11 @@ Today I...
 * Thought about some new changes to make for my personal portfolio website
 * Applied for several junior software engineering / web development positions
 * Prepared for coding challege interview coming up
+
+### 02/14/2024
+
+Today I...
+* Had a great networking talk with Roshini from Norway
+* Learned about best technologies to focus on for future projects
+* Met with a friend and planned out an investment club website that I am going to creat
+* Read the Bigs
