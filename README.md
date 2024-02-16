@@ -30,3 +30,10 @@ Today I...
 * Learned about best technologies to focus on for future projects
 * Met with a friend and planned out an investment club website that I am going to creat
 * Read the Bigs
+
+### 02/15/2024
+
+Today I...
+* Brainstormed a great plan for projects going forward: finish portfolio, make investment club website, make ski course setting program, and then continue workign on stock trading application
+* Worked out the best way to implement ski program: through netflify with a HTML form, CSS, and Javascript "backend"
+* Looked into React project implementations
