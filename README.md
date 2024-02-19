@@ -37,3 +37,10 @@ Today I...
 * Brainstormed a great plan for projects going forward: finish portfolio, make investment club website, make ski course setting program, and then continue workign on stock trading application
 * Worked out the best way to implement ski program: through netflify with a HTML form, CSS, and Javascript "backend"
 * Looked into React project implementations
+
+### 2/18/2024
+
+Today I...
+* Made design plans and decisions for the student investment club website
+* Wrote out definitive pages for the student investment club
+* Researched other colleges stident invesment club websites, explored dofferent approaches
