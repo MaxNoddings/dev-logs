@@ -44,3 +44,10 @@ Today I...
 * Made design plans and decisions for the student investment club website
 * Wrote out definitive pages for the student investment club
 * Researched other colleges stident invesment club websites, explored dofferent approaches
+
+### 2/21/2024
+
+Today I...
+* Worked on the responsive hamburger menu for the Student Investment Club website, unfortunately didn't find a solution, but there are a lot of resources available
+* Networked with other software professionals - going to reach out to IBM person soon
+* Thought about future projects to work on
