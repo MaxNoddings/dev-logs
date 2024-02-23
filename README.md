@@ -51,3 +51,10 @@ Today I...
 * Worked on the responsive hamburger menu for the Student Investment Club website, unfortunately didn't find a solution, but there are a lot of resources available
 * Networked with other software professionals - going to reach out to IBM person soon
 * Thought about future projects to work on
+
+### 2/22/2024
+
+Today I...
+* Researched Youtube videos about implementing the responsive hamburger menu for Srudent Investment Club website
+* Looked into space related software engineerign roles
+* Watched the live stream of the Intiative Machines IM-1 lander, land on the moon for the first time in over 50 years (for the US).
