@@ -65,3 +65,10 @@ Today I...
 * Listened to a really interesting Bill Ackman podcast talking about investing, AI, and future technology
 * Looked into more hamburger menu implementation options
 * Watched videos about AI intagram bots and how they are already in use - learned how these AI bots are programmed
+
+### 2/26/2024
+
+Today I...
+* Made great progress on the Investment Club Website and finally found a method to make the responsive mobile menu work!
+* Styled the new menu to my liking
+* Learned about the difference between Gemini and ChatGPT
