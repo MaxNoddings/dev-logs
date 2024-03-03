@@ -72,3 +72,10 @@ Today I...
 * Made great progress on the Investment Club Website and finally found a method to make the responsive mobile menu work!
 * Styled the new menu to my liking
 * Learned about the difference between Gemini and ChatGPT
+
+### 3/2/2024
+
+Today I...
+* Learned a little bit about TinyGrad - a very interesting AI company
+* Worked on filling out and adding content to the Investment Club Website - specifically adding content to the About page
+* Was able to check out some different software engineering resumes which gave me a great reference, and provided a lot of good information that I can add to my own resume
