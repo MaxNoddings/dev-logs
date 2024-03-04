@@ -79,3 +79,10 @@ Today I...
 * Learned a little bit about TinyGrad - a very interesting AI company
 * Worked on filling out and adding content to the Investment Club Website - specifically adding content to the About page
 * Was able to check out some different software engineering resumes which gave me a great reference, and provided a lot of good information that I can add to my own resume
+
+### 3/3/2024
+
+Today I...
+* Worked on resume and looked at friends resume to take notes! Changed links so that they are more visible. Also, listed technologies used once more to have more keywords in application.
+* Watched interesting video about the different fields/subfields of software engineering and what it takes to specialize in each.
+* Learned about different software part time contracting jobs that pay per project or even per small assignment. Sort of like how tinygrad
