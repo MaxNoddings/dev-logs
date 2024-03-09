@@ -86,3 +86,10 @@ Today I...
 * Worked on resume and looked at friends resume to take notes! Changed links so that they are more visible. Also, listed technologies used once more to have more keywords in application.
 * Watched interesting video about the different fields/subfields of software engineering and what it takes to specialize in each.
 * Learned about different software part time contracting jobs that pay per project or even per small assignment. Sort of like how tinygrad
+
+### 3/9/2024
+
+Today I...
+* Talked to a really interesting Investment Banker
+* Made some new implementation ideas for the investment club website
+* Made a better game plan for future projects and how I should time them / when I should have them done
