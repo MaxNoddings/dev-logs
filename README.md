@@ -93,3 +93,11 @@ Today I...
 * Talked to a really interesting Investment Banker
 * Made some new implementation ideas for the investment club website
 * Made a better game plan for future projects and how I should time them / when I should have them done
+
+### 3/11/2024
+
+Today I...
+* Learned about a cool new job application tool that finds the most important keywords given a specific joh description.
+* Thought about some changes that could be made to the imvestment club website.
+
+
