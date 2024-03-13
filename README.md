@@ -100,4 +100,10 @@ Today I...
 * Learned about a cool new job application tool that finds the most important keywords given a specific joh description.
 * Thought about some changes that could be made to the imvestment club website.
 
+### 3/12/2024
+
+Ideas for the Double-Dice-Decision...
+* Make "Roll Dice" and "+, -, *, /" highlight when it it is their turns to click, make it much more intuative to play
+* Add a Rules section below the game that explains how to play the game in detail
+
 
