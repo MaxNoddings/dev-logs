@@ -113,3 +113,11 @@ Today I...
 * looked into the best places in the US to live for tech
 * Went for a huge motorcyle adventure in Mexico!
 
+### 3/14/2024
+
+Today I...
+* Thought of new coding project ideas
+* Worked with uncle on Job opportunity
+* Checked back in on PD intership
+* Networked with PV local
+
