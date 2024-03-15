@@ -121,3 +121,10 @@ Today I...
 * Checked back in on PD intership
 * Networked with PV local
 
+### 3/15/2024
+
+Today I...
+* Started coordinating with Web-Design internship boss
+* Started implementing double-dice design changes
+* Began researching Weebly + website feature updates for internship
+
