@@ -135,3 +135,10 @@ Today I...
 * Made coding plan for the next few days
 * Networked with friends about different career paths and further education paths
 
+### 3/17/2024
+
+Today I...
+* Networked with a few industry professionals (defense and marketing)
+* Signed up for some NVIDIA GTC sessions, looking into future technology trends and seeing the direction of the cutting edge technology
+* Watched video about new AI - Devin that is showign signs of being a really impressive software engineer
+
