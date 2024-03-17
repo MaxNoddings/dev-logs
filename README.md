@@ -128,3 +128,10 @@ Today I...
 * Started implementing double-dice design changes
 * Began researching Weebly + website feature updates for internship
 
+### 3/16/2024
+
+Today I...
+* Did some more company research and jotted down ideas for internship
+* Made coding plan for the next few days
+* Networked with friends about different career paths and further education paths
+
