@@ -142,3 +142,10 @@ Today I...
 * Signed up for some NVIDIA GTC sessions, looking into future technology trends and seeing the direction of the cutting edge technology
 * Watched video about new AI - Devin that is showign signs of being a really impressive software engineer
 
+### 3/19/2024
+
+Today I...
+* Worked deeply on classifying each page of internship website to see where it fits in with the whole. The goal is to ultimately better organize and simplify the website. This has been a tedious process, but I think that it could arguably be the most important of the whole internship beacuse it will set the whole project up!
+* Further prepared for intership meeting tommorow
+* Watched 2024 NVIDIA GTC Keynote by CEO Jensen Huang - all about new AI products, services, and some robotics!
+* Did some more research into NVIDIA robotics and robots in general. A field that I am very interested in.
