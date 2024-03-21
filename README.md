@@ -149,3 +149,10 @@ Today I...
 * Further prepared for intership meeting tommorow
 * Watched 2024 NVIDIA GTC Keynote by CEO Jensen Huang - all about new AI products, services, and some robotics!
 * Did some more research into NVIDIA robotics and robots in general. A field that I am very interested in.
+
+### 3/20/2024
+
+Today I...
+* Applied to various Boeing Jobs (SWE and Engineer)
+* Had internship meeting, planned future roadmap and design for website
+* Worked on Investment Club Website
