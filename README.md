@@ -156,3 +156,10 @@ Today I...
 * Applied to various Boeing Jobs (SWE and Engineer)
 * Had internship meeting, planned future roadmap and design for website
 * Worked on Investment Club Website
+
+### 3/22/2024
+
+Today I...
+* Learned about Factset - a data company
+* Worked on internship website
+* Launched Investment Club Website, started working on mobile implementation
