@@ -163,3 +163,10 @@ Today I...
 * Learned about Factset - a data company
 * Worked on internship website
 * Launched Investment Club Website, started working on mobile implementation
+
+### 3/23/2024
+
+Today I...
+* Worked on internship website
+* Networked with Factset professional
+* Talked with friend who just got web-dev software engineering job
