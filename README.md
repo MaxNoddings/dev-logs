@@ -170,3 +170,12 @@ Today I...
 * Worked on internship website
 * Networked with Factset professional
 * Talked with friend who just got web-dev software engineering job
+
+### 3/24/2024
+
+Today I...
+* Continued internship website implementation
+* Wrote down plans for future internship website changes
+* Started planning for SFO networking / tech trip
+* Looked back into NVIDIA GTC Sessions
+* Downloaded "Meditations" by Marcus Aurelius
