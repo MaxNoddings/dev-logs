@@ -179,3 +179,12 @@ Today I...
 * Started planning for SFO networking / tech trip
 * Looked back into NVIDIA GTC Sessions
 * Downloaded "Meditations" by Marcus Aurelius
+
+### 3/25/2024
+
+Today I...
+* Read "Meditations" by Marcus Aurelius
+* Looked at some cool website styling inspiration from friend
+* Worked on Investment Club Website
+* Researched internship website issue
+* Changed internship website theme, converted logo to PNG, and organized main menu
